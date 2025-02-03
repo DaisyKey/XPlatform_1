@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("XPlatform")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a9445663585627264f8437c25dde8d4f2b2740c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f9d014eed7b147fc7b7a1253ac29f6ee1f4309f")]
 [assembly: System.Reflection.AssemblyProductAttribute("XPlatform")]
 [assembly: System.Reflection.AssemblyTitleAttribute("XPlatform")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
