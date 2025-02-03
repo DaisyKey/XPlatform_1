@@ -3,36 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\Documents\\GitHub\\XPlatform_1\\XPlatform\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\Documents\\GitHub\\XPlatform_1\\XPlatform\\Migrations\\20250203122106_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250203122106_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F0DB21E4-1D80-439B-8AC4-6AFA0B87EAC4}|XPlatform.csproj|c:\\users\\\u0434\u0430\u043D\u0438\u043B\\documents\\github\\xplatform_1\\xplatform\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0DB21E4-1D80-439B-8AC4-6AFA0B87EAC4}|XPlatform.csproj|solutionrelative:dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F0DB21E4-1D80-439B-8AC4-6AFA0B87EAC4}|XPlatform.csproj|c:\\users\\\u0434\u0430\u043D\u0438\u043B\\documents\\github\\xplatform_1\\xplatform\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0DB21E4-1D80-439B-8AC4-6AFA0B87EAC4}|XPlatform.csproj|solutionrelative:controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0DB21E4-1D80-439B-8AC4-6AFA0B87EAC4}|XPlatform.csproj|c:\\users\\\u0434\u0430\u043D\u0438\u043B\\documents\\github\\xplatform_1\\xplatform\\dto\\visitordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0DB21E4-1D80-439B-8AC4-6AFA0B87EAC4}|XPlatform.csproj|solutionrelative:dto\\visitordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F0DB21E4-1D80-439B-8AC4-6AFA0B87EAC4}|XPlatform.csproj|c:\\users\\\u0434\u0430\u043D\u0438\u043B\\documents\\github\\xplatform_1\\xplatform\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0DB21E4-1D80-439B-8AC4-6AFA0B87EAC4}|XPlatform.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0DB21E4-1D80-439B-8AC4-6AFA0B87EAC4}|XPlatform.csproj|c:\\users\\\u0434\u0430\u043D\u0438\u043B\\documents\\github\\xplatform_1\\xplatform\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0DB21E4-1D80-439B-8AC4-6AFA0B87EAC4}|XPlatform.csproj|solutionrelative:dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F0DB21E4-1D80-439B-8AC4-6AFA0B87EAC4}|XPlatform.csproj|c:\\users\\\u0434\u0430\u043D\u0438\u043B\\documents\\github\\xplatform_1\\xplatform\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F0DB21E4-1D80-439B-8AC4-6AFA0B87EAC4}|XPlatform.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0DB21E4-1D80-439B-8AC4-6AFA0B87EAC4}|XPlatform.csproj|c:\\users\\\u0434\u0430\u043D\u0438\u043B\\documents\\github\\xplatform_1\\xplatform\\dto\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0DB21E4-1D80-439B-8AC4-6AFA0B87EAC4}|XPlatform.csproj|solutionrelative:dto\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F0DB21E4-1D80-439B-8AC4-6AFA0B87EAC4}|XPlatform.csproj|c:\\users\\\u0434\u0430\u043D\u0438\u043B\\documents\\github\\xplatform_1\\xplatform\\xplatform.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F0DB21E4-1D80-439B-8AC4-6AFA0B87EAC4}|XPlatform.csproj|solutionrelative:xplatform.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DB21E4-1D80-439B-8AC4-6AFA0B87EAC4}|XPlatform.csproj|c:\\users\\\u0434\u0430\u043D\u0438\u043B\\documents\\github\\xplatform_1\\xplatform\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F0DB21E4-1D80-439B-8AC4-6AFA0B87EAC4}|XPlatform.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F0DB21E4-1D80-439B-8AC4-6AFA0B87EAC4}|XPlatform.csproj|c:\\users\\\u0434\u0430\u043D\u0438\u043B\\documents\\github\\xplatform_1\\xplatform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0DB21E4-1D80-439B-8AC4-6AFA0B87EAC4}|XPlatform.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0DB21E4-1D80-439B-8AC4-6AFA0B87EAC4}|XPlatform.csproj|c:\\users\\\u0434\u0430\u043D\u0438\u043B\\documents\\github\\xplatform_1\\xplatform\\models\\visitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0DB21E4-1D80-439B-8AC4-6AFA0B87EAC4}|XPlatform.csproj|solutionrelative:models\\visitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F0DB21E4-1D80-439B-8AC4-6AFA0B87EAC4}|XPlatform.csproj|c:\\users\\\u0434\u0430\u043D\u0438\u043B\\documents\\github\\xplatform_1\\xplatform\\xplatform.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F0DB21E4-1D80-439B-8AC4-6AFA0B87EAC4}|XPlatform.csproj|solutionrelative:xplatform.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0DB21E4-1D80-439B-8AC4-6AFA0B87EAC4}|XPlatform.csproj|c:\\users\\\u0434\u0430\u043D\u0438\u043B\\documents\\github\\xplatform_1\\xplatform\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0DB21E4-1D80-439B-8AC4-6AFA0B87EAC4}|XPlatform.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F0DB21E4-1D80-439B-8AC4-6AFA0B87EAC4}|XPlatform.csproj|c:\\users\\\u0434\u0430\u043D\u0438\u043B\\documents\\github\\xplatform_1\\xplatform\\migrations\\librarycontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0DB21E4-1D80-439B-8AC4-6AFA0B87EAC4}|XPlatform.csproj|solutionrelative:migrations\\librarycontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DB21E4-1D80-439B-8AC4-6AFA0B87EAC4}|XPlatform.csproj|c:\\users\\\u0434\u0430\u043D\u0438\u043B\\documents\\github\\xplatform_1\\xplatform\\migrations\\20250203122106_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0DB21E4-1D80-439B-8AC4-6AFA0B87EAC4}|XPlatform.csproj|solutionrelative:migrations\\20250203122106_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DB21E4-1D80-439B-8AC4-6AFA0B87EAC4}|XPlatform.csproj|c:\\users\\\u0434\u0430\u043D\u0438\u043B\\documents\\github\\xplatform_1\\xplatform\\dto\\visitordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0DB21E4-1D80-439B-8AC4-6AFA0B87EAC4}|XPlatform.csproj|solutionrelative:dto\\visitordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DB21E4-1D80-439B-8AC4-6AFA0B87EAC4}|XPlatform.csproj|c:\\users\\\u0434\u0430\u043D\u0438\u043B\\documents\\github\\xplatform_1\\xplatform\\dto\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0DB21E4-1D80-439B-8AC4-6AFA0B87EAC4}|XPlatform.csproj|solutionrelative:dto\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DB21E4-1D80-439B-8AC4-6AFA0B87EAC4}|XPlatform.csproj|c:\\users\\\u0434\u0430\u043D\u0438\u043B\\documents\\github\\xplatform_1\\xplatform\\models\\visitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0DB21E4-1D80-439B-8AC4-6AFA0B87EAC4}|XPlatform.csproj|solutionrelative:models\\visitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F0DB21E4-1D80-439B-8AC4-6AFA0B87EAC4}|XPlatform.csproj|c:\\users\\\u0434\u0430\u043D\u0438\u043B\\documents\\github\\xplatform_1\\xplatform\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -41,10 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F0DB21E4-1D80-439B-8AC4-6AFA0B87EAC4}|XPlatform.csproj|c:\\users\\\u0434\u0430\u043D\u0438\u043B\\documents\\github\\xplatform_1\\xplatform\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0DB21E4-1D80-439B-8AC4-6AFA0B87EAC4}|XPlatform.csproj|solutionrelative:librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0DB21E4-1D80-439B-8AC4-6AFA0B87EAC4}|XPlatform.csproj|c:\\users\\\u0434\u0430\u043D\u0438\u043B\\documents\\github\\xplatform_1\\xplatform\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F0DB21E4-1D80-439B-8AC4-6AFA0B87EAC4}|XPlatform.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,17 +70,107 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "XPlatform",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\Documents\\GitHub\\XPlatform_1\\XPlatform\\XPlatform.csproj",
+              "RelativeDocumentMoniker": "XPlatform.csproj",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\Documents\\GitHub\\XPlatform_1\\XPlatform\\XPlatform.csproj",
+              "RelativeToolTip": "XPlatform.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-03T13:27:03.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\Documents\\GitHub\\XPlatform_1\\XPlatform\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\Documents\\GitHub\\XPlatform_1\\XPlatform\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-03T13:17:01.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "XPlatform",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\Documents\\GitHub\\XPlatform_1\\XPlatform\\XPlatform.csproj",
+              "RelativeDocumentMoniker": "XPlatform.csproj",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\Documents\\GitHub\\XPlatform_1\\XPlatform\\XPlatform.csproj",
+              "RelativeToolTip": "XPlatform.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-03T13:14:46.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "BookDTO.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\Documents\\GitHub\\XPlatform_1\\XPlatform\\DTO\\BookDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\BookDTO.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\Documents\\GitHub\\XPlatform_1\\XPlatform\\DTO\\BookDTO.cs",
+              "RelativeToolTip": "DTO\\BookDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T10:40:30.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\Documents\\GitHub\\XPlatform_1\\XPlatform\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\Documents\\GitHub\\XPlatform_1\\XPlatform\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-03T10:58:31.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LibraryContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\Documents\\GitHub\\XPlatform_1\\XPlatform\\Migrations\\LibraryContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\LibraryContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\Documents\\GitHub\\XPlatform_1\\XPlatform\\Migrations\\LibraryContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\LibraryContextModelSnapshot.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T12:23:22.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\Documents\\GitHub\\XPlatform_1\\XPlatform\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\Documents\\GitHub\\XPlatform_1\\XPlatform\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T10:38:24.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "20250203122106_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\Documents\\GitHub\\XPlatform_1\\XPlatform\\Migrations\\20250203122106_InitialCreate.cs",
               "RelativeDocumentMoniker": "Migrations\\20250203122106_InitialCreate.cs",
               "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\Documents\\GitHub\\XPlatform_1\\XPlatform\\Migrations\\20250203122106_InitialCreate.cs",
               "RelativeToolTip": "Migrations\\20250203122106_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-03T12:21:07.025Z",
               "EditorCaption": ""
@@ -84,55 +190,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BookDTO.cs",
-              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\Documents\\GitHub\\XPlatform_1\\XPlatform\\DTO\\BookDTO.cs",
-              "RelativeDocumentMoniker": "DTO\\BookDTO.cs",
-              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\Documents\\GitHub\\XPlatform_1\\XPlatform\\DTO\\BookDTO.cs",
-              "RelativeToolTip": "DTO\\BookDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T10:40:30.344Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Visitor.cs",
-              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\Documents\\GitHub\\XPlatform_1\\XPlatform\\Models\\Visitor.cs",
-              "RelativeDocumentMoniker": "Models\\Visitor.cs",
-              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\Documents\\GitHub\\XPlatform_1\\XPlatform\\Models\\Visitor.cs",
-              "RelativeToolTip": "Models\\Visitor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T10:40:01.707Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\Documents\\GitHub\\XPlatform_1\\XPlatform\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\Documents\\GitHub\\XPlatform_1\\XPlatform\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAUAAABYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T10:38:24.192Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Author.cs",
-              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\Documents\\GitHub\\XPlatform_1\\XPlatform\\Models\\Author.cs",
-              "RelativeDocumentMoniker": "Models\\Author.cs",
-              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\Documents\\GitHub\\XPlatform_1\\XPlatform\\Models\\Author.cs",
-              "RelativeToolTip": "Models\\Author.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T10:39:29.176Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\Documents\\GitHub\\XPlatform_1\\XPlatform\\Models\\Book.cs",
               "RelativeDocumentMoniker": "Models\\Book.cs",
@@ -140,11 +198,38 @@
               "RelativeToolTip": "Models\\Book.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T10:38:56.494Z"
+              "WhenOpened": "2025-02-03T10:38:56.494Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 12,
+              "Title": "Visitor.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\Documents\\GitHub\\XPlatform_1\\XPlatform\\Models\\Visitor.cs",
+              "RelativeDocumentMoniker": "Models\\Visitor.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\Documents\\GitHub\\XPlatform_1\\XPlatform\\Models\\Visitor.cs",
+              "RelativeToolTip": "Models\\Visitor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T10:40:01.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\Documents\\GitHub\\XPlatform_1\\XPlatform\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "Models\\Author.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\Documents\\GitHub\\XPlatform_1\\XPlatform\\Models\\Author.cs",
+              "RelativeToolTip": "Models\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T10:39:29.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "VisitorDTO.cs",
               "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\Documents\\GitHub\\XPlatform_1\\XPlatform\\DTO\\VisitorDTO.cs",
               "RelativeDocumentMoniker": "DTO\\VisitorDTO.cs",
@@ -152,23 +237,12 @@
               "RelativeToolTip": "DTO\\VisitorDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T10:41:07.406Z"
+              "WhenOpened": "2025-02-03T10:41:07.406Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\Documents\\GitHub\\XPlatform_1\\XPlatform\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\Documents\\GitHub\\XPlatform_1\\XPlatform\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-03T10:58:31.886Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "LibraryContext.cs",
               "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\Documents\\GitHub\\XPlatform_1\\XPlatform\\LibraryContext.cs",
               "RelativeDocumentMoniker": "LibraryContext.cs",
@@ -176,11 +250,12 @@
               "RelativeToolTip": "LibraryContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T11:34:42.373Z"
+              "WhenOpened": "2025-02-03T11:34:42.373Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "AuthorDTO.cs",
               "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\Documents\\GitHub\\XPlatform_1\\XPlatform\\DTO\\AuthorDTO.cs",
               "RelativeDocumentMoniker": "DTO\\AuthorDTO.cs",
@@ -188,7 +263,8 @@
               "RelativeToolTip": "DTO\\AuthorDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T10:40:46.537Z"
+              "WhenOpened": "2025-02-03T10:40:46.537Z",
+              "EditorCaption": ""
             }
           ]
         }

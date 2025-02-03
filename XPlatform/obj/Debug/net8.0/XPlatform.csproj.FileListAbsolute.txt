@@ -171,3 +171,8 @@ C:\Users\Данил\Documents\GitHub\XPlatform_1\XPlatform\obj\Debug\net8.0\refi
 C:\Users\Данил\Documents\GitHub\XPlatform_1\XPlatform\obj\Debug\net8.0\XPlatform.pdb
 C:\Users\Данил\Documents\GitHub\XPlatform_1\XPlatform\obj\Debug\net8.0\XPlatform.genruntimeconfig.cache
 C:\Users\Данил\Documents\GitHub\XPlatform_1\XPlatform\obj\Debug\net8.0\ref\XPlatform.dll
+C:\Users\Данил\Documents\GitHub\XPlatform_1\XPlatform\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Данил\Documents\GitHub\XPlatform_1\XPlatform\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Данил\Documents\GitHub\XPlatform_1\XPlatform\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Данил\Documents\GitHub\XPlatform_1\XPlatform\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Данил\Documents\GitHub\XPlatform_1\XPlatform\obj\Debug\net8.0\XPlatform.MvcApplicationPartsAssemblyInfo.cs
