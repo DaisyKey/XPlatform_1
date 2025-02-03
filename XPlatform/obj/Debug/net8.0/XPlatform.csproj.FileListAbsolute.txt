@@ -1,0 +1,9 @@
+C:\Users\Данил\Documents\GitHub\XPlatform_1\XPlatform\obj\Debug\net8.0\XPlatform.csproj.AssemblyReference.cache
+C:\Users\Данил\Documents\GitHub\XPlatform_1\XPlatform\obj\Debug\net8.0\XPlatform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Данил\Documents\GitHub\XPlatform_1\XPlatform\obj\Debug\net8.0\XPlatform.AssemblyInfoInputs.cache
+C:\Users\Данил\Documents\GitHub\XPlatform_1\XPlatform\obj\Debug\net8.0\XPlatform.AssemblyInfo.cs
+C:\Users\Данил\Documents\GitHub\XPlatform_1\XPlatform\obj\Debug\net8.0\XPlatform.csproj.CoreCompileInputs.cache
+C:\Users\Данил\Documents\GitHub\XPlatform_1\XPlatform\obj\Debug\net8.0\XPlatform.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Данил\Documents\GitHub\XPlatform_1\XPlatform\obj\Debug\net8.0\XPlatform.RazorAssemblyInfo.cache
+C:\Users\Данил\Documents\GitHub\XPlatform_1\XPlatform\obj\Debug\net8.0\XPlatform.RazorAssemblyInfo.cs
+C:\Users\Данил\Documents\GitHub\XPlatform_1\XPlatform\obj\Debug\net8.0\XPlatform.sourcelink.json

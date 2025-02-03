@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\Documents\\GitHub\\XPlatform_1\\XPlatform\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F0DB21E4-1D80-439B-8AC4-6AFA0B87EAC4}|XPlatform.csproj|c:\\users\\\u0434\u0430\u043D\u0438\u043B\\documents\\github\\xplatform_1\\xplatform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0DB21E4-1D80-439B-8AC4-6AFA0B87EAC4}|XPlatform.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DB21E4-1D80-439B-8AC4-6AFA0B87EAC4}|XPlatform.csproj|c:\\users\\\u0434\u0430\u043D\u0438\u043B\\documents\\github\\xplatform_1\\xplatform\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0DB21E4-1D80-439B-8AC4-6AFA0B87EAC4}|XPlatform.csproj|solutionrelative:librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F0DB21E4-1D80-439B-8AC4-6AFA0B87EAC4}|XPlatform.csproj|c:\\users\\\u0434\u0430\u043D\u0438\u043B\\documents\\github\\xplatform_1\\xplatform\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{F0DB21E4-1D80-439B-8AC4-6AFA0B87EAC4}|XPlatform.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -29,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F0DB21E4-1D80-439B-8AC4-6AFA0B87EAC4}|XPlatform.csproj|c:\\users\\\u0434\u0430\u043D\u0438\u043B\\documents\\github\\xplatform_1\\xplatform\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0DB21E4-1D80-439B-8AC4-6AFA0B87EAC4}|XPlatform.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0DB21E4-1D80-439B-8AC4-6AFA0B87EAC4}|XPlatform.csproj|c:\\users\\\u0434\u0430\u043D\u0438\u043B\\documents\\github\\xplatform_1\\xplatform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0DB21E4-1D80-439B-8AC4-6AFA0B87EAC4}|XPlatform.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,11 +46,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "LibraryContext.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\Documents\\GitHub\\XPlatform_1\\XPlatform\\LibraryContext.cs",
+              "RelativeDocumentMoniker": "LibraryContext.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\Documents\\GitHub\\XPlatform_1\\XPlatform\\LibraryContext.cs",
+              "RelativeToolTip": "LibraryContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T11:34:42.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\Documents\\GitHub\\XPlatform_1\\XPlatform\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -59,32 +76,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "VisitorDTO.cs",
-              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\Documents\\GitHub\\XPlatform_1\\XPlatform\\DTO\\VisitorDTO.cs",
-              "RelativeDocumentMoniker": "DTO\\VisitorDTO.cs",
-              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\Documents\\GitHub\\XPlatform_1\\XPlatform\\DTO\\VisitorDTO.cs",
-              "RelativeToolTip": "DTO\\VisitorDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T10:41:07.406Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AuthorDTO.cs",
-              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\Documents\\GitHub\\XPlatform_1\\XPlatform\\DTO\\AuthorDTO.cs",
-              "RelativeDocumentMoniker": "DTO\\AuthorDTO.cs",
-              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\Documents\\GitHub\\XPlatform_1\\XPlatform\\DTO\\AuthorDTO.cs",
-              "RelativeToolTip": "DTO\\AuthorDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T10:40:46.537Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "BookDTO.cs",
               "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\Documents\\GitHub\\XPlatform_1\\XPlatform\\DTO\\BookDTO.cs",
               "RelativeDocumentMoniker": "DTO\\BookDTO.cs",
@@ -92,12 +84,11 @@
               "RelativeToolTip": "DTO\\BookDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T10:40:30.344Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T10:40:30.344Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Visitor.cs",
               "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\Documents\\GitHub\\XPlatform_1\\XPlatform\\Models\\Visitor.cs",
               "RelativeDocumentMoniker": "Models\\Visitor.cs",
@@ -109,7 +100,32 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\Documents\\GitHub\\XPlatform_1\\XPlatform\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\Documents\\GitHub\\XPlatform_1\\XPlatform\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T10:38:24.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "AuthorDTO.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\Documents\\GitHub\\XPlatform_1\\XPlatform\\DTO\\AuthorDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\AuthorDTO.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\Documents\\GitHub\\XPlatform_1\\XPlatform\\DTO\\AuthorDTO.cs",
+              "RelativeToolTip": "DTO\\AuthorDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T10:40:46.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Author.cs",
               "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\Documents\\GitHub\\XPlatform_1\\XPlatform\\Models\\Author.cs",
               "RelativeDocumentMoniker": "Models\\Author.cs",
@@ -121,7 +137,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
+              "Title": "VisitorDTO.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\Documents\\GitHub\\XPlatform_1\\XPlatform\\DTO\\VisitorDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\VisitorDTO.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\Documents\\GitHub\\XPlatform_1\\XPlatform\\DTO\\VisitorDTO.cs",
+              "RelativeToolTip": "DTO\\VisitorDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T10:41:07.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\Documents\\GitHub\\XPlatform_1\\XPlatform\\Models\\Book.cs",
               "RelativeDocumentMoniker": "Models\\Book.cs",
@@ -130,18 +158,6 @@
               "ViewState": "AgIAAAQAAAAAAAAAAAA1wCEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-03T10:38:56.494Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\Documents\\GitHub\\XPlatform_1\\XPlatform\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\\Documents\\GitHub\\XPlatform_1\\XPlatform\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T10:38:24.192Z"
             }
           ]
         }

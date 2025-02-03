@@ -1,4 +1,18 @@
+using XPlatform;
+using static XPlatform.LibraryContext;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using XPlatform.Models;  
+using XPlatform.DTO;   
+using System.Linq;                 
+using System.Threading.Tasks;      // Для асинхронных операций
+
+
 var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddDbContext<LibraryContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+//Объявление контекста для добавления в БД.
 
 // Add services to the container.
 builder.Services.AddRazorPages();
