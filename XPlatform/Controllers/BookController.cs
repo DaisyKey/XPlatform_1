@@ -35,6 +35,14 @@ namespace XPlatform.Controllers
         [HttpPost]
         public IActionResult CreateBook([FromBody] BookDTO bookDto)
         {
+            var existingBook = _context.Books
+            .FirstOrDefault(b => b.Title == bookDto.Title && b.Name == bookDto.AuthorName);
+
+            if (existingBook != null)
+            {
+                return BadRequest("Книга с таким названием и автором уже существует.");
+            }
+
             var author = _context.Authors.FirstOrDefault(a => a.Name == bookDto.AuthorName)
                          ?? new Author { Name = bookDto.AuthorName };
 
