@@ -1,7 +1,9 @@
 using XPlatform;
+using System;
 using static XPlatform.LibraryContext;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection; // Для регистрации контекста базы данных
 using XPlatform.Models;  
 using XPlatform.DTO;   
 using System.Linq;                 

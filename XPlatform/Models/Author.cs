@@ -1,4 +1,10 @@
-﻿namespace XPlatform.Models
+﻿using System;  
+using System.ComponentModel.DataAnnotations;  
+using System.ComponentModel.DataAnnotations.Schema;  
+
+
+
+namespace XPlatform.Models
 {
     public class Author
     {
