@@ -1,4 +1,6 @@
-﻿namespace XPlatform.DTO
+﻿using System;
+
+namespace XPlatform.DTO
 {
     public class AuthorDTO
     {
