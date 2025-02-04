@@ -12,6 +12,18 @@ namespace XPlatform.Models
         public string Name { get; set; } // это поле можно вывести пользователю
         public List<Book> Books { get; set; } = new(); // Это поле нужно вывести пользователю
 
+        public override bool Equals(object obj)
+        {
+            if (obj is Author otherAuthor)
+                return this.Id == otherAuthor.Id && this.Name == otherAuthor.Name;
+            return false;
+        }
+
+        public override int GetHashCode()
+        {
+            return HashCode.Combine(Id, Name);
+        }
+
         // Метод для добавления книги к автору
         public void AddBook(Book book)
         {
